@@ -12,7 +12,7 @@ This is a Python script that uses Jumpcutter and Speech Recognition to edit a vi
 
 1. Clone the repository and navigate to the project directory:
 
-git clone git@github.com:JWSaye/Bootleg-Youtube.git
+git clone git@github.com:JWSaye/Bootleg-Youtube-LTR.git
 cd video-voice-recognition
 
 2. Install the required libraries:
